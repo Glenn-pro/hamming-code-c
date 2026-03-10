@@ -1,0 +1,16 @@
+7 % n
+3 % r
+1 1 1 0 1 0 0 %H
+1 1 0 1 0 1 0
+1 0 1 1 0 0 1
+4 %m:No. Error patterns
+1 0 0 0 0 0 0 %error pattern z0
+0 1 0 0 0 0 0 %error pattern z1
+0 0 1 0 0 0 0 %error pattern z2
+0 0 0 1 0 0 0 %error pattern z3
+
+
+
+
+
+

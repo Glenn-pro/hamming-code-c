@@ -1,0 +1,1 @@
+Sim.txt → 讀 nrHm錯誤樣式 → 把 H 調成系統型 → 由關係式做 G=[IP] → 用 LFSR 產生 M(=m) 組 u → x=uG → y=x⊕z → syndrome 解回 ^u → 輸出 u.txt（每 row 一組 ^u）。
