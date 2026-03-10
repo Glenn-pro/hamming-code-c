@@ -38,6 +38,16 @@
 
 可產生週期為 63 的序列。
 
+## 編譯方式
+gcc src/hamming_code.c -o hamming_code
+
+## 執行方式
+./hamming_code
+
+## 輸入與輸出
+- 輸入：data/Sim.txt
+- 輸出：u.txt
+
 ## 專案結構
 
 ```text
